@@ -80,6 +80,13 @@ p {
     border-image-slice: 10;
 }
 
+.banner .banner-content button:hover {
+    color: white;
+    border: none;
+    background-color: #33A8DB;
+    cursor: pointer;
+}
+
 #course-content {
     width: 792px;
     margin: auto;
